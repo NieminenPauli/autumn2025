@@ -7,3 +7,6 @@ Lisätään teksiä ja kokeillaan uudestaan.
 
 Lisätään tämä rivi bug fix branchiin
 lisätään varuiksi toinenkin rivi 
+
+
+Lisätään ja testataan toimiiko merging.
