@@ -4,3 +4,5 @@ toiseksi "git commit "First commit change"
 vikaksi "git push origin main 
 
 Lisätään teksiä ja kokeillaan uudestaan.
+
+Lisätään tämä rivi bug fix branchiin
