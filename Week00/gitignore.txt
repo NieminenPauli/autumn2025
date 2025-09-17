@@ -6,3 +6,4 @@ vikaksi "git push origin main
 Lisätään teksiä ja kokeillaan uudestaan.
 
 Lisätään tämä rivi bug fix branchiin
+lisätään varuiksi toinenkin rivi 
