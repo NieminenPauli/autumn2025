@@ -2,3 +2,5 @@ Testi ensimmäiselle commit / push
 Ensin "git add week01"
 toiseksi "git commit "First commit change" 
 vikaksi "git push origin main 
+
+Lisätään teksiä ja kokeillaan uudestaan.
