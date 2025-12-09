@@ -25,6 +25,7 @@ Take substring from the inserted word by inserting...
 The word 'Moonbanana' sliced to the defined substring is 'Moon'.
 Program ending."""
 
+<<<<<<< HEAD
 print("Program starting")
 word = input("Insert a closed compund word: ")
 print(f"The word you inserted is '{word}' and reverse it is '{word[::-1]}' ")
@@ -37,3 +38,24 @@ endingPoint = int(input("Ending point: "))
 stepSize = int(input("Step Size: "))
 
 print(f"The word '{word}' sliced to the defined substring is '{word[startingPoint:endingPoint:stepSize]}'.)")
+=======
+print("Programn starting")
+compoundWord = input("Insert a closed compound word: ")
+reversedCompoundWord = compoundWord[::-1]
+print(f"The word you inserted is '{compoundWord}' and reverse it is {reversedCompoundWord}")
+print(f"The inserted word legnht is {len(compoundWord)}")
+print(f"The last character is {compoundWord[-1]}")
+
+print("Take substring from the inserted word by inserting...")
+
+startingPoint = int(input("Starting point: "))
+endingPoint = int(input("Ending point: "))
+stepSize = int(input("Step size: "))
+
+subString = compoundWord[startingPoint:endingPoint:stepSize]
+
+print(f"The word '{compoundWord}' sliced to the defined substring is '{subString}'.")
+print("Programn ending")
+
+
+>>>>>>> 7a20287cf5f964b1973a862b750ffb37a17fad28
